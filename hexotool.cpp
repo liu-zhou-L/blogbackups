@@ -50,6 +50,7 @@ void hexogd() {
 }
 
 void hexos() {
+	system("start http:////localhost:4000/");
 	system("hexo s");
 	return;
 }
